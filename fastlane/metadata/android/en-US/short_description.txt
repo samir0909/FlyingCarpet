@@ -1,1 +1,0 @@
-Cross-platform AirDrop between Android/iOS/Linux/macOS/Windows via ad hoc WiFi
